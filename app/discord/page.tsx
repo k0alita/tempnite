@@ -4,7 +4,7 @@ import React from 'react';
 
 export default function DiscordPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-slate-800 text-white">
+   <div className="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-slate-800 text-white">
       {/* Header */}
       <header className="p-6 flex justify-between items-center border-b border-slate-700">
         <h1 className="text-2xl font-black tracking-wider uppercase">Timenite</h1>
