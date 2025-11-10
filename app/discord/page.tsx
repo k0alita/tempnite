@@ -6,7 +6,7 @@ export default function DiscordPage() {
   return (
    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-slate-800 text-white">
       {/* Header */}
-      <header className="p-6 flex justify-between items-center border-b border-slate-700">
+      <header className="p-6 flex justify-between items-center">
         <h1 className="text-2xl font-black tracking-wider uppercase">Timenite</h1>
         <nav className="flex gap-6 text-sm font-medium">
           <a href="/" className="hover:text-blue-400 transition">Inicio</a>
